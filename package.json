@@ -1,0 +1,28 @@
+{
+  "name": "todos-nodejs",
+  "version": "1.0.0",
+  "description": "Task-planning tool",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arcbjorn/todos-nodejs.git"
+  },
+  "author": "Arc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arcbjorn/todos-nodejs/issues"
+  },
+  "homepage": "https://github.com/arcbjorn/todos-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "3.1.0",
+    "mongoose": "^5.9.16"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
