@@ -1,4 +1,4 @@
-# Todos app using Nodejs, MongoDB, Materialize
+# Todos app using Nodejs, MongoDB, Materialize css
 
 ### `npm install` && `npm run dev`
 
